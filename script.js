@@ -1,6 +1,6 @@
 let weather = {
-	// gorojif889@rxcay.com
-	apiKey: "A41ae50d253217849fde6c7ad5db35c28",
+	// yasih36517@vpsrec.com
+	apiKey: "fc56f046fec316d67ef4966d196a40e9",
 	fetchWeather: function (city) {
 		fetch(
 			"https://api.openweathermap.org/data/2.5/weather?q=" +
